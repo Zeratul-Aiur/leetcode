@@ -10,3 +10,4 @@ LeetCode-cn Algorithms
 |0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)|[Python3](algorithms/python3/median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)|[归并思想，划分数组](solution/median_of_two_sorted_arrays.md)|
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)|[Python3](algorithms/python3/longest_palindromic_substring/longest_palindromic_substring.py)|manacher|
 |0006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)|[Python3](algorithms/python3/zigzag_conversion/zigzag_conversion.py)|模拟|
+|0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)|[Python3](algorithms/python3/reverse_integer/reverse_integer.py)|模拟|
