@@ -11,3 +11,4 @@ LeetCode-cn Algorithms
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)|[Python3](algorithms/python3/longest_palindromic_substring/longest_palindromic_substring.py)|manacher|
 |0006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)|[Python3](algorithms/python3/zigzag_conversion/zigzag_conversion.py)|模拟|
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)|[Python3](algorithms/python3/reverse_integer/reverse_integer.py)|模拟|
+|0009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)|[Python3](algorithms/python3/palindrome_number/palindrome_number.py)|反转一半数字进行判断|
